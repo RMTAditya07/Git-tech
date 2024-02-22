@@ -1,0 +1,4 @@
+first line in first.txt
+second line in first.txt
+third line in first.txt
+fourth line in first.txt
